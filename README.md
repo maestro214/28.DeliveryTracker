@@ -1,4 +1,4 @@
-# aop-part5-chapter06
+# 택배 조회 서비스
 
 ## ⚠️ 주의사항
 `gradle.properties` 파일에 `스마트 택배 API 키` 를 추가해야합니다.
