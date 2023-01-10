@@ -20,6 +20,6 @@
 
 
 ## 결과화면
-|추천 영화|영화 목록|영화 리뷰|
+|택배 추적|운송장 추가|배송 상태|
 |---|---|---|
 |<img src="https://i.imgur.com/SFaMLpo.png"/>|<img src="https://i.imgur.com/BAYgiTx.png"/>|<img src="https://i.imgur.com/jZ6vbNA.png"/>|
